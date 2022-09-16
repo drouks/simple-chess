@@ -1,0 +1,162 @@
+#allcontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 520px;
+    height: 520px;
+    border-radius: 15px 15px 0px 0px;
+    background-color: rgb(60, 108, 180);
+
+}
+
+#maingrid {
+    display: grid;
+    grid-template-columns: 0.025fr 0.025fr 0.025fr 0.025fr 0.025fr 0.025fr 0.025fr 0.025fr;
+}
+
+.cell {
+    width: 60px;
+    height: 60px;
+    aspect-ratio: 1/1;
+    box-sizing: border-box;
+}
+
+.whitecell {
+    background-color: rgb(234, 255, 223);
+}
+
+.blackcell {
+    background-color: rgb(66, 192, 54);
+}
+
+.turntext {
+    text-align: center;
+    width: 520px;
+    color: cyan;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(60, 108, 180);
+    padding-bottom: 5px;
+    border-radius: 0px 0px 15px 15px;
+}
+
+#turn{
+    display: inline-block;
+    text-align: center;
+}
+
+#check1{
+    display: inline-block;
+    text-align: center;
+    color: red;
+    font-weight: 700;
+}
+
+#check2{
+    display: inline-block;
+    text-align: center;
+    color: red;
+    font-weight: 700;
+}
+
+.whiteturn {
+    color: white;
+    font-weight: 700;
+}
+
+.blackturn {
+    color: black;
+    font-weight: 700;
+}
+
+.WHITE_HORSE {
+    width: 60px;
+    height: 60px;
+    background-image: url("horsewhite2.png");
+    background-size: cover;
+}
+
+.BLACK_HORSE {
+    width: 60px;
+    height: 60px;
+    background-image: url("horseblack.png");
+    background-size: cover;
+}
+
+.BLACK_ROOK {
+    width: 60px;
+    height: 60px;
+    background-image: url("rookblack.png");
+    background-size: cover;
+}
+
+.WHITE_ROOK {
+    width: 60px;
+    height: 60px;
+    background-image: url("rookwhite2.png");
+    background-size: cover;
+}
+
+.BLACK_PAWN {
+    width: 60px;
+    height: 60px;
+    background-image: url("blackpawn.png");
+    background-size: cover;
+}
+
+
+.WHITE_PAWN {
+    width: 60px;
+    height: 60px;
+    background-image: url("pawnwhite2.png");
+    background-size: cover;
+}
+
+.BLACK_BISHOP {
+    width: 60px;
+    height: 60px;
+    background-image: url("bishopblack.png");
+    background-size: cover;
+}
+
+
+.WHITE_BISHOP {
+    width: 60px;
+    height: 60px;
+    background-image: url("bishopwhite2.png");
+    background-size: cover;
+}
+
+.BLACK_QUEEN {
+    width: 60px;
+    height: 60px;
+    background-image: url("queenblack.png");
+    background-size: cover;
+}
+
+.WHITE_QUEEN {
+    width: 60px;
+    height: 60px;
+    background-image: url("queenwhite2.png");
+    background-size: cover;
+}
+
+.BLACK_KING {
+    width: 60px;
+    height: 60px;
+    background-image: url("kingblack.png");
+    background-size: cover;
+}
+
+.WHITE_KING {
+    width: 60px;
+    height: 60px;
+    background-image: url("kingwhite2.png");
+    background-size: cover;
+}
+
+.EMPTY {
+    width: 60px;
+    height: 60px;
+    background-size: cover;
+}
