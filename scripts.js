@@ -1,7 +1,4 @@
-
-//checkmate - must be implemented in draw - check legal positions of each side and check 
-//if they include all legal positions of enemy king at the same time
-
+//stalemate to do
 
 var grid = [[0, 1, 0, 1, 0, 1, 0, 1],
 [1, 0, 1, 0, 1, 0, 1, 0],
