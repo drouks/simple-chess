@@ -72,35 +72,35 @@
 .WHITE_HORSE {
     width: 60px;
     height: 60px;
-    background-image: url("horsewhite2.png");
+    background-image: url("images/whitehorse.png");
     background-size: cover;
 }
 
 .BLACK_HORSE {
     width: 60px;
     height: 60px;
-    background-image: url("horseblack.png");
+    background-image: url("images/horseblack.png");
     background-size: cover;
 }
 
 .BLACK_ROOK {
     width: 60px;
     height: 60px;
-    background-image: url("rookblack.png");
+    background-image: url("images/rookblack.png");
     background-size: cover;
 }
 
 .WHITE_ROOK {
     width: 60px;
     height: 60px;
-    background-image: url("rookwhite2.png");
+    background-image: url("images/rookwhite2.png");
     background-size: cover;
 }
 
 .BLACK_PAWN {
     width: 60px;
     height: 60px;
-    background-image: url("blackpawn.png");
+    background-image: url("images/blackpawn.png");
     background-size: cover;
 }
 
@@ -108,14 +108,14 @@
 .WHITE_PAWN {
     width: 60px;
     height: 60px;
-    background-image: url("pawnwhite2.png");
+    background-image: url("images/pawnwhite2.png");
     background-size: cover;
 }
 
 .BLACK_BISHOP {
     width: 60px;
     height: 60px;
-    background-image: url("bishopblack.png");
+    background-image: url("images/bishopblack.png");
     background-size: cover;
 }
 
@@ -123,35 +123,35 @@
 .WHITE_BISHOP {
     width: 60px;
     height: 60px;
-    background-image: url("bishopwhite2.png");
+    background-image: url("images/bishopwhite2.png");
     background-size: cover;
 }
 
 .BLACK_QUEEN {
     width: 60px;
     height: 60px;
-    background-image: url("queenblack.png");
+    background-image: url("images/queenblack.png");
     background-size: cover;
 }
 
 .WHITE_QUEEN {
     width: 60px;
     height: 60px;
-    background-image: url("queenwhite2.png");
+    background-image: url("images/queenwhite2.png");
     background-size: cover;
 }
 
 .BLACK_KING {
     width: 60px;
     height: 60px;
-    background-image: url("kingblack.png");
+    background-image: url("images/kingblack.png");
     background-size: cover;
 }
 
 .WHITE_KING {
     width: 60px;
     height: 60px;
-    background-image: url("kingwhite2.png");
+    background-image: url("images/kingwhite2.png");
     background-size: cover;
 }
 
